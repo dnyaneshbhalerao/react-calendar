@@ -2,7 +2,7 @@
 
 It is a basic calendar developed unsing react.
 
-# To Run the project
+# To install the dependancies and dev-dependancies
   npm install
 
 # To build the project 
