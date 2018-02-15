@@ -6,7 +6,11 @@
   <title>CityStream | Home</title>
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/latest/css/bootstrap.min.css">
+<<<<<<< Updated upstream
+  <link rel="stylesheet" href="../style/calendar.css" />
+=======
   <link rel="stylesheet" href="calendar.css" />
+>>>>>>> Stashed changes
 
 </head>
 <body>
